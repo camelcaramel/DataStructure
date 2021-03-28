@@ -7,6 +7,7 @@ double c[MAX_SIZE][MAX_SIZE];
 
 double KnuthMin(int i, int j)
 {
+	// 인덱스 i에서 j까지 k 값을 변화 시키면서 가장 작은 비용을 찾는다.
 	return (0);
 }
 
