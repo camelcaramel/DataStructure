@@ -106,3 +106,9 @@ void leftRotation(treePointer *parent, int *unbalnced)
 	(*parent)->bf = 0;
 	*unbalnced = FALSE;
 }
+
+int main(void)
+{
+	char h[] = "hello world";
+	
+}
